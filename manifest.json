@@ -1,0 +1,10 @@
+{
+  "id": "webblock-plugin",
+  "name": "WebBlock Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Insert button blocks to open URLs inside an iframe",
+  "author": "Yan",
+  "authorUrl": "https://yourwebsite.com",
+  "main": "main.js"
+}
